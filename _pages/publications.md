@@ -1,8 +1,8 @@
 ---
+layout: archive
+title: "Publications"
 permalink: /publications/
-title: "Research"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /publications.html
 ---
+
+To be updated soon.
