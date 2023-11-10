@@ -26,5 +26,4 @@ To be updated soon. <button style="background-color: #4CAF50; /* Green */
   cursor: pointer;">HTML</button>
 
 
-[<kbd> <br> Title <br> </kbd>][Link]
-[Link]: # 'www.macropy.com'
+[<kbd> Click me </kbd>](https://example.com)
