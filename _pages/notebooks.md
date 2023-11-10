@@ -5,9 +5,7 @@ permalink: /notebooks/
 author_profile: true
 ---
 
-To be updated soon.
-
-<button style="background-color: #4CAF50; /* Green */
+To be updated soon. <button style="background-color: #4CAF50; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
