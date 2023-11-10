@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Copy code
+
 [**PDF**](http://milindv26.github.io/files/mrw1992.html){: .button target="_blank"}
 
 <style>
