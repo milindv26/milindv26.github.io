@@ -7,7 +7,7 @@ author_profile: true
 
 1. Mankiw Romer Weil (1992).    <span style="display: inline-block;">
   [**GitHub**](https://github.com/milindv26/MRW1992){: .button target="_blank"}
-  [**HTML**](http://milindv26.github.io/files/MRW1992.html){: .button target="_blank"}
+  [**HTML**](http://milindv26.github.io/files/mrw1992.html){: .button target="_blank"}
 </span>
 
 <style>
