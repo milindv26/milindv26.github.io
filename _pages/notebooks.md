@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 1. Mankiw Romer Weil (1992).    <span style="display: inline-block;">
-  [**GitHub**](https://github.com){: .button }
-  [**HTML**](https://github.com){: .button }
+  [**GitHub**](https://github.com){: .button target="_blank"}
+  [**HTML**](https://github.com){: .button target="_blank"}
 </span>
 
 <style>
