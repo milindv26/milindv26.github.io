@@ -42,6 +42,6 @@ To be updated soon. <button style="background-color: #FFFFFF; /* Green */
 
 .button:hover {
   background-color: #1AA7EC;
+  text-decoration: none; /* Remove underline on hover */
 }
 </style>
-
