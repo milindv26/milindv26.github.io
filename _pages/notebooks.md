@@ -6,24 +6,17 @@ author_profile: true
 ---
 
 To be updated soon. <button style="background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
+  border: 2px solid #000000;
+  color: black;
+  padding: 5px 24px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;">Github</button><button style="background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;">HTML</button>
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background-color 0.3s;">Github</button>
 
-
+  
 [<kbd> <br>Click me<br> </kbd>](https://example.com)
