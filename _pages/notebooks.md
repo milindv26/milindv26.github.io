@@ -15,7 +15,7 @@ author_profile: true
     background-color: #FFFFFF;
     border: 2px solid #000000;
     color: black;
-    padding: 1px 24px;
+    padding: 1px 18px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
