@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "Notebooks"
-    url: /markdown/
+    url: /notebooks/
     
   - title: "CV"
     url: /cv/
