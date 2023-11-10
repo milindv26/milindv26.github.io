@@ -16,7 +16,7 @@ To be updated soon. <button style="background-color: #FFFFFF; /* Green */
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 3px;
-  transition: background-color 0.3s;">Github</button>
+  transition: background-color 0.3s;">Github</button>(https://example.com)
 
   
 [<kbd> <br>Click me<br> </kbd>](https://example.com)
