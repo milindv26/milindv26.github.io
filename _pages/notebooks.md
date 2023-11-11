@@ -18,6 +18,7 @@ author_profile: true
     cursor: pointer;
     border-radius: 3px;
     transition: background-color 0.3s;
+    text-decoration: none;
   }
 
   .button:hover {
