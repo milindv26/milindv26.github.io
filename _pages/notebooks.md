@@ -31,7 +31,6 @@ author_profile: true
     text-decoration: none; /* Remove underline on hover */
   }
 </style>
-
 2. Revenue equivalence (Auctions) simulation.    <span style="display: inline-block;">
   [**GitHub**](https://github.com/milindv26/MRW1992){: .button target="_blank"}
   [**HTML**](https://macropy.com/files/mrw1992.html){: .button target="_blank"}
