@@ -14,7 +14,7 @@ author_profile: true
     text-decoration: none;
     display: inline-block;
     font-size: 12px;
-    margin: 4px 2px;
+    margin: 2px 2px -2px 2px;
     cursor: pointer;
     border-radius: 3px;
     transition: background-color 0.3s;
