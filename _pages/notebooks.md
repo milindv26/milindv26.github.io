@@ -34,7 +34,7 @@ author_profile: true
 
 2. Shapiro Wilk test Monte Carlo simulation.    <span style="display: inline-block;">
   [**GitHub**](https://github.com/milindv26/Shapiro_Wilk_Test){: .button target="_blank"}
-  [**HTML**](https://macropy.com/?https://github.com/milindv26/Shapiro_Wilk_Test/blob/main/W_Statistic_distribution.html){: .button target="_blank"}
+  [**HTML**](https://macropy.com/files/W_Statistic_distribution.html){: .button target="_blank"}
 </span>
 
 3. Revenue equivalence (Auctions) simulation. [Coming Soon]  <!-- <span style="display: inline-block;">
