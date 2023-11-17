@@ -32,7 +32,12 @@ author_profile: true
   [**HTML**](https://macropy.com/files/mrw1992.html){: .button target="_blank"}
 </span>
 
-2. Revenue equivalence (Auctions) simulation. [Coming Soon]  <!-- <span style="display: inline-block;">
+2. Shapiro Wilk test Monte Carlo simulation.    <span style="display: inline-block;">
+  [**GitHub**](https://github.com/milindv26/Shapiro_Wilk_Test){: .button target="_blank"}
+  [**HTML**](https://macropy.com/?https://github.com/milindv26/Shapiro_Wilk_Test/blob/main/W_Statistic_distribution.html){: .button target="_blank"}
+</span>
+
+3. Revenue equivalence (Auctions) simulation. [Coming Soon]  <!-- <span style="display: inline-block;">
   [**GitHub**](https://github.com/milindv26/MRW1992){: .button target="_blank"}
   [**HTML**](https://macropy.com/files/mrw1992.html){: .button target="_blank"}
 </span> -->
