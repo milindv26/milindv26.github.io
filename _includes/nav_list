@@ -14,7 +14,10 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% comment %} <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a> {% endcomment %}
+          <!-- Modified part -->
+          <a href="{{ domain }}{{ nav.url }}" {% if nav.new_tab %}target="_blank"{% endif %}><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <!-- End modified part -->
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
