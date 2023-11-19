@@ -14,15 +14,19 @@
             {% assign domain = base_path %}
           {% endif %}
 
+          {% if nav.new_tab %}
+            {% assign target = "_blank" %}
+          {% else %}
+            {% assign target = "" %}
+          {% endif %}
+
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
           
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
 
-        {% if nav.new_tab %}
-          {% assign target = "_blank" %}
-          {% endif %}
+        
         {% if nav.children != null %}
         <ul>
           {% for child in nav.children %}
