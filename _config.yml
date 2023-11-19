@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Milind Verma"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics and Finance."
+  bio              : "PhD Candidate in Economics and Finance at Università Bocconi."
   location         : "Milano, Italy."
-  employer         : "Università Bocconi"
+  employer         : 
   pubmed           :
-  googlescholar    : "Università Bocconi"
+  googlescholar    : 
   email            : "milindv26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
