@@ -14,3 +14,5 @@ main:
 
   - title: "Notebooks & Courses"
     url: /notebooks/
+    plugins:
+    - jekyll-target-blank
