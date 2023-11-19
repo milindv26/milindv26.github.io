@@ -14,34 +14,35 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <!-- Modified part -->
-          <a href="{{ domain }}{{ nav.url }}" {% if nav.new_tab %}target="_blank"{% endif %}><span class="nav__sub-title">{{ nav.title }}</span></a>
-          <!-- End modified part -->
-
+          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
 
+        {% if nav.new_tab %}
+          {% assign target = "_blank" %}
+          {% endif %}
         {% if nav.children != null %}
-          <ul>
-            {% for child in nav.children %}
-              {% comment %}internal/external URL check{% endcomment %}
-              {% if child.url contains "://" %}
-                {% assign domain = "" %}
-              {% else %}
-                {% assign domain = base_path %}
-              {% endif %}
+        <ul>
+          {% for child in nav.children %}
+            {% comment %}internal/external URL check{% endcomment %}
+            {% if child.url contains "://" %}
+              {% assign domain = "" %}
+            {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
 
-              {% comment %}set "active" class on current page{% endcomment %}
-              {% if child.url == page.url %}
-                {% assign active = "active" %}
-              {% else %}
-                {% assign active = "" %}
-              {% endif %}
+            {% comment %}set "active" class on current page{% endcomment %}
+            {% if child.url == page.url %}
+              {% assign active = "active" %}
+            {% else %}
+              {% assign active = "" %}
+            {% endif %}
 
-              <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}" {% if child.new_tab %}target="_blank"{% endif %}>{{ child.title }}</a></li>
-            {% endfor %}
-          </ul>
+            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+          {% endfor %}
+        </ul>
         {% endif %}
       </li>
     {% endfor %}
