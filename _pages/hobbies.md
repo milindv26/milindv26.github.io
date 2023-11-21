@@ -11,7 +11,7 @@ author_profile: true
     Each of these hobbies, from the cinematic journeys in movies, the rhythmic harmony of music, to the digital artistry of iPad drawing, enriches my life in unique and fulfilling ways.
 </div>
 
-### Spotify playlists
+### Spotify playlists:
 <br>
 
 <div style="text-align:center;">
