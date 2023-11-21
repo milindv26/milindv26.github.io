@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[**PDF**](http://milindv26.github.io/files/mrw1992.html){: .button target="_blank"}
+[**PDF**](http://milindv26.github.io/files/CV_macropy.pdf){: .button target="_blank"}
 
 <style>
 .button {
