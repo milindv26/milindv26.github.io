@@ -11,8 +11,12 @@ author_profile: true
     Each of these hobbies, from the cinematic journeys in movies, the rhythmic harmony of music, to the digital artistry of iPad drawing, enriches my life in unique and fulfilling ways.
 </div>
 
-###Spotify playlists
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3NMQjVYnTiFIU5Xq0dYszr?utm_source=generator&theme=0" width="30%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Spotify playlists
+<br>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ohNmgRcLtoI7BtKvj5rg3?utm_source=generator&theme=0" width="30%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div style="text-align:center;">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3NMQjVYnTiFIU5Xq0dYszr?utm_source=generator&theme=0" width="30%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3ohNmgRcLtoI7BtKvj5rg3?utm_source=generator&theme=0" width="30%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
