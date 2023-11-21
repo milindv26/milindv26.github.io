@@ -13,6 +13,5 @@ main:
     url: /hobbies/
 
   - title: "Notebooks & Courses"
-    url: /notebooks/
+    url: /Docusaurus_site_git/docs/jnb/intro/
     new_tab: true
-    
