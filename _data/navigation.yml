@@ -13,5 +13,5 @@ main:
     url: /hobbies/
 
   - title: "Notebooks & Courses"
-    url: /Docusaurus_site_git/docs/jnb/intro/
+    url: /Docusaurus_site_git/docs/jnb/W_Statistic_distribution/
     new_tab: true
