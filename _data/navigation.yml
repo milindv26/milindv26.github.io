@@ -13,5 +13,5 @@ main:
     url: /hobbies/
 
   - title: "Notebooks & Courses"
-    url: /Docusaurus_site_git/
+    url: /Notebooks_Courses/
     new_tab: true
