@@ -12,6 +12,6 @@ main:
   - title: "Hobbies"
     url: /hobbies/
 
-  - title: "Notebooks & Courses"
+  - title: "Notebooks & Courses 📚"
     url: /Notebooks_Courses/
     new_tab: true
