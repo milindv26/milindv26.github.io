@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify; line-height: 2;">
-I am currently pursuing my doctoral studies in Economics and Finance at Bocconi University, Milan. My academic focus encompasses a broad spectrum, including Development Economics and Gender Economics, with a particular interest in the complexities of Behavioural Economics. Additionally, I am deeply engaged in Data Science and Machine Learning, aiming to harness their potential to address economic questions and contribute to the field.
+I am a doctoral student at Bocconi University in Milan, specializing in Economics and Finance. My research interests cover a range of topics, including Development Economics, Gender Economics, and Behavioural Economics. I am also actively involved in Data Science and Machine Learning, exploring their applications in economic research and seeking innovative solutions to complex economic problems.
 </div>
